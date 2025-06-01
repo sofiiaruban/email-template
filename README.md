@@ -11,11 +11,11 @@ HTML Email Template
 - [Email Test Sending Screenshots](#email-test-sending-screenshots)
 
 # Task
-Create a responsive HTML email according to the provided design mockup that displays correctly in popular email clients and browsers.
-🔹 Responsive design: The email must display correctly on both desktop and mobile devices.
-🔹 Table-based layout: Use <table> for structure due to inconsistent CSS support across email clients.
-🔹 Maximum content width: 600px (recommended standard).
-🔹 Test and support the following email clients: Apple mail, Apple mail dark, Gmail App Android, Gmail App Android Dark, Outlook Web, Outlook 2021, Outlook 2021 dark.
+Create a responsive HTML email according to the provided design mockup that displays correctly in popular email clients and browsers. <br/>
+🔹 Responsive design: The email must display correctly on both desktop and mobile devices.<br/>
+🔹 Table-based layout: Use &#x3c;table&#x3e; for structure due to inconsistent CSS support across email clients.<br/>
+🔹 Maximum content width: 600px (recommended standard).<br/>
+🔹 Test and support the following email clients: Apple mail, Apple mail dark, Gmail App Android, Gmail App Android Dark, Outlook Web, Outlook 2021, Outlook 2021 dark.<br/>
 
 # Demo link 
 Access my template at <a href="https://github.com/sofiiaruban/email-template/deployments/github-pages">link</a>
