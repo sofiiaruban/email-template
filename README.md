@@ -23,16 +23,14 @@ Responsive email template built with a table-based layout to ensure consistent r
 ## 📌 Task
 
 Create a responsive HTML email according to the provided design mockup that displays correctly in popular email clients and browsers.
-
-🔹 **Responsive design:** Displays correctly on both desktop and mobile devices. <br/>
-🔹 **Table-based layout:** Uses `<table>` for structure due to inconsistent CSS support across email clients.<br/>  
-🔹 **Max content width:** 600px (recommended standard).  <br/>
-🔹 **Tested and supported clients:** <br/>
-  - Apple Mail
-  - Apple Mail Dark Mode
-  - Gmail App Android (Light & Dark)
-  - Outlook Web
-  - Outlook 2021 (Light & Dark)
+🔹**Responsive design:** Displays correctly on both desktop and mobile devices.<br/>
+🔹**Table-based layout:** Uses `<table>` for structure due to inconsistent CSS support across email clients.<br/>
+🔹**Max content width:** 600px (recommended standard).<br/>
+🔹**Tested and supported clients:** <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Apple Mail<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Apple Mail Dark Mode<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Gmail App Android (Light & Dark)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;• Outlook Web<br/>
 
 ---
 
